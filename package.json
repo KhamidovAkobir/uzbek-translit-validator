@@ -1,0 +1,12 @@
+{
+  "name": "uzbek-translit-validator",
+  "version": "1.0.0",
+  "description": "Zero-dependency utility for Uzbek Latin-Cyrillic transliteration and national ID validation (PINFL, TIN, Phone).",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": ["uzbek", "transliteration", "latin", "cyrillic", "pinfl", "uzbekistan", "validator"],
+  "author": "Akobir Khamidov",
+  "license": "MIT"
+}
